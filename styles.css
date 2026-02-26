@@ -7,7 +7,7 @@ body {
   line-height: 1.6;
 }
 header {
-   background-color: #4CAF50;
+   background-color: #4A4A4A;
    color: white;
    padding: 20px;
    text-align: center;
@@ -50,7 +50,7 @@ p {
 }
 
 a {
-    color: #4CAF50;
+    color: #CBCBCB;
     text-decoration: none;
 }
 
@@ -59,7 +59,7 @@ a:hover {
 }
 
 img {
-  border: 5px solid #4CAF50;
+  border: 5px solid #4caf50;
   border-radius: 10px;
 }
 
